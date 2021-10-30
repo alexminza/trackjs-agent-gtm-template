@@ -1,5 +1,5 @@
 homepage: "https://github.com/alexminza/trackjs-agent-gtm-template"
 documentation: "https://github.com/alexminza/trackjs-agent-gtm-template"
 versions:
-  - sha: 93b1a3310f14286bee22135f0360aa8ef704ae40
+  - sha: 0ce2bf8ec22978753f22c3e1663caa40a7812a78
     changeNotes: Initial release
